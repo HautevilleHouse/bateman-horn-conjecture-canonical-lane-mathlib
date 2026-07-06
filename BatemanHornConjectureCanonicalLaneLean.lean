@@ -1,0 +1,7 @@
+-- This module is the root of the BatemanHornConjectureCanonicalLaneLean Lean proof package.
+import BatemanHornConjectureCanonicalLaneLean.Basic
+import BatemanHornConjectureCanonicalLaneLean.SourcePackage
+import BatemanHornConjectureCanonicalLaneLean.SourceDependencies
+import BatemanHornConjectureCanonicalLaneLean.Formalization
+import BatemanHornConjectureCanonicalLaneLean.ReviewerBridge
+import BatemanHornConjectureCanonicalLaneLean.TheoremStatement
